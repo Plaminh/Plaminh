@@ -25,36 +25,37 @@ Currently looking for **Software Engineering / Backend Development internship** 
 
 ## Selected Projects
 
-### 🌱 [Blooming](https://github.com/Plaminh/Blooming)
+## 🌱 [Blooming](https://github.com/Plaminh/Blooming)
 
-An AI-powered desktop planner for daily tasks, long-term goals, and focused work.
+A desktop productivity application that combines daily planning, long-term goals, and AI-assisted planning.
 
-- Built backend APIs and database models for planning features.
-- Integrated LLM-powered conversational planning and structured plan generation.
+- Built backend APIs and database models for tasks, goals, and planning workflows.
+- Integrated an LLM-powered assistant that helps users turn natural-language requests into structured planning drafts.
 
-**Tech:** `Python` `FastAPI` `Svelte` `Tauri` `PostgreSQL`
+**Tech:** `Python` `FastAPI` `SvelteKit` `Tauri` `PostgreSQL` `Groq API`
 
 ### 🤖 [Messenger Bot](https://github.com/Plaminh/Messenger-bot)
 
-A Facebook Messenger chatbot that uses LLM APIs to generate responses.
+An AI-powered Facebook Messenger chatbot that generates context-aware responses using LLMs.
 
-- Implemented webhook handling and conversation processing with FastAPI.
-- Integrated LLM services and deployed the bot for real-world testing.
+- Implemented Messenger webhook handling and automated replies through the Meta Graph API.
+- Integrated Groq-hosted LLMs and PostgreSQL-backed conversation memory to support personalized interactions.
+- Deployed the backend on Render.
 
-**Tech:** `Python` `FastAPI` `PostgreSQL` `LLM APIs`
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Groq API` `Docker`
 
 ### 📚 [AmeThyst Library](https://github.com/Plaminh/AmeThyst-Library)
 
-A team-built library management application with a full-stack architecture.
+A full-stack library management system developed as a collaborative software engineering project.
 
-- Worked on user authentication, email verification, and profile management.
-- Wrote automated tests for registration and authentication workflows.
+- Contributed to user registration, email verification, authentication, and profile management.
+- Implemented avatar processing and wrote automated tests for authentication workflows.
 
-**Tech:** `TypeScript` `Node.js` `PostgreSQL` `Vitest`
+**Tech:** `Next.js` `Node.js` `Express` `PostgreSQL` `Vitest` `Cloudinary`
 
 ---
 
 ## Connect
 
-- **LinkedIn:** [My profile](https://www.linkedin.com/in/REPLACE_WITH_YOUR_USERNAME/)
+- **LinkedIn:** [My profile](www.linkedin.com/in/anh-minh-phan819)
 - **Email:** [minhphan12022006@gmail.com](mailto:minhphan12022006@gmail.com)
