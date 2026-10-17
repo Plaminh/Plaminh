@@ -1,108 +1,60 @@
-# Hi, I'm Minh 👋
 
-Software Engineering student at **University of Science, VNU-HCM**  
-Building practical AI-powered products.
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=58A6FF&width=650&lines=Hi%2C+I%27m+Minh+%F0%9F%91%8B;Backend+Development+%7C+Python+%7C+FastAPI"
+    alt="Hi, I'm Minh — Backend Development | Python | FastAPI"
+  />
+</p>
 
----
+I'm a **Software Engineering student** at the **University of Science, VNU-HCM**.
 
-## About Me
+I enjoy building practical applications, from backend APIs and database-driven systems to automated testing and AI integration.
 
-- 🌱 Currently building **Blooming**
-- 🤖 Interested in **Applied AI, AI Agents, and AI-native products**
-- 🧪 Exploring **Software Testing, QA Automation, and Machine Learning**
-- ⚙️ I like building things that actually work
+Currently looking for **Software Engineering / Backend Development internship** opportunities.
 
 ---
 
 ## Tech Stack
 
-`Python` `TypeScript` `Java` `JavaScript` `SQL`  
-`FastAPI` `Node.js` `Svelte` `React`  
-`PostgreSQL` `Docker` `Playwright` `Tauri`
+- **Languages:** `Python` `TypeScript` `JavaScript` `Java` `SQL`
+- **Backend & Databases:** `FastAPI` `Node.js` `REST APIs` `PostgreSQL`
+- **Frontend & Desktop:** `React` `Svelte` `Tauri`
+- **Tools & Testing:** `Git` `GitHub` `Docker` `Vitest` `Pytest` `Playwright`
 
 ---
 
-## GitHub Analytics
+## Selected Projects
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Plaminh&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
-</p>
+### 🌱 [Blooming](https://github.com/Plaminh/Blooming)
 
-<br>
+An AI-powered desktop planner for daily tasks, long-term goals, and focused work.
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Plaminh&theme=tokyonight"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Plaminh&theme=tokyonight"
-    height="220"
-    alt="Top Languages by Commit"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Plaminh&theme=tokyonight&utcOffset=7"
-    height="180"
-    alt="Productive Time"
-  />
-</p>
-
----
-
-## Featured Projects
-
-### 🌱 Blooming
-
-AI-powered desktop planner and virtual companion designed around adaptive planning, focus sessions, long-term goals, and practical AI assistance.
+- Built backend APIs and database models for planning features.
+- Integrated LLM-powered conversational planning and structured plan generation.
 
 **Tech:** `Python` `FastAPI` `Svelte` `Tauri` `PostgreSQL`
 
-### 🤖 Messenger Bot
+### 🤖 [Messenger Bot](https://github.com/Plaminh/Messenger-bot)
 
-LLM-powered Facebook Messenger chatbot with backend API integration and conversational AI capabilities.
+A Facebook Messenger chatbot that uses LLM APIs to generate responses.
 
-**Tech:** `Python` `FastAPI` `LLM APIs`
+- Implemented webhook handling and conversation processing with FastAPI.
+- Integrated LLM services and deployed the bot for real-world testing.
 
-### 📚 AmeThyst Library
+**Tech:** `Python` `FastAPI` `PostgreSQL` `LLM APIs`
 
-Full-stack library management system with authentication, user profiles, database integration, and automated testing.
+### 📚 [AmeThyst Library](https://github.com/Plaminh/AmeThyst-Library)
 
-**Tech:** `TypeScript` `Node.js` `Database` `Vitest`
+A team-built library management application with a full-stack architecture.
 
----
+- Worked on user authentication, email verification, and profile management.
+- Wrote automated tests for registration and authentication workflows.
 
-## Current Focus
-
-- Building and refining **Blooming**
-- Learning more about **AI Agents and Applied AI**
-- Exploring **adaptive software testing and QA automation**
-- Improving backend and full-stack software engineering skills
+**Tech:** `TypeScript` `Node.js` `PostgreSQL` `Vitest`
 
 ---
 
 ## Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/minh-anh-845417390/">
-    LinkedIn
-  </a>
-  &nbsp;·&nbsp;
-  <a href="mailto:minhphan12022006@gmail.com">
-    Email
-  </a>
-</p>
+- **LinkedIn:** [My profile](https://www.linkedin.com/in/REPLACE_WITH_YOUR_USERNAME/)
+- **Email:** [minhphan12022006@gmail.com](mailto:minhphan12022006@gmail.com)
