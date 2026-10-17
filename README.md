@@ -57,5 +57,5 @@ A full-stack library management system developed as a collaborative software eng
 
 ## Connect
 
-- **LinkedIn:** [My profile](www.linkedin.com/in/anh-minh-phan819)
+- **LinkedIn:** [My profile](https://www.linkedin.com/in/anh-minh-phan819)
 - **Email:** [minhphan12022006@gmail.com](mailto:minhphan12022006@gmail.com)
