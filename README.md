@@ -1,10 +1,10 @@
-
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=58A6FF&width=650&lines=Hi%2C+I%27m+Minh+%F0%9F%91%8B;Backend+Development+%7C+Python+%7C+FastAPI"
-    alt="Hi, I'm Minh — Software Engineering student"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=1200&amp;color=58A6FF&amp;width=750&amp;lines=Hi%2C+I%27m+Minh%21;Software+Engineering+Student;Full-Stack+Development+%7C+React+%7C+FastAPI"
+    alt="Typing introduction"
   />
 </p>
+
 
 I'm a **Software Engineering student** at the **University of Science, VNU-HCM**.
 
