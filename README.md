@@ -2,7 +2,7 @@
 <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=58A6FF&width=650&lines=Hi%2C+I%27m+Minh+%F0%9F%91%8B;Backend+Development+%7C+Python+%7C+FastAPI"
-    alt="Hi, I'm Minh — Backend Development | Python | FastAPI"
+    alt="Hi, I'm Minh — Software Engineering student"
   />
 </p>
 
